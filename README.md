@@ -22,7 +22,7 @@
 
 Uma empresa precisa organizar as atividades diárias de indivíduos e equipes. Hoje, essa empresa possui um sistema, mas os usuários reclamam da complexidade de utilizar o sistema. Apesar de experiências anteriores com ferramentas renomadas como o Jira e Monday, a necessidade imediata da empresa é proporcionar aos usuários um ambiente mais ágil e intuitivo para o preenchimento e gerenciamento de suas atividades cotidianas. O objetivo principal é aprimorar a eficiência operacional, assegurando uma experiência de usuário mais fluida e satisfatória.
 
-Para o desafio, defina um setor de atuação da empresa em questão. Sugestão do nome da empresa: TechFlow Solutions
+Para o desafio, defina um setor de atuação da empresa em questão. Sugestão do nome da empresa: TechFlow Solutions.
 
 ### Visão Geral
 
