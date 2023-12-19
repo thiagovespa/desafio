@@ -18,9 +18,15 @@
 
 ## Desafio Técnico
 
+### Problema a ser resolvido
+
+Uma empresa precisa organizar as atividades diárias de indivíduos e equipes. Hoje, essa empresa possui um sistema, mas os usuários reclamam da complexidade de utilizar o sistema. Apesar de experiências anteriores com ferramentas renomadas como o Jira e Monday, a necessidade imediata da empresa é proporcionar aos usuários um ambiente mais ágil e intuitivo para o preenchimento e gerenciamento de suas atividades cotidianas. O objetivo principal é aprimorar a eficiência operacional, assegurando uma experiência de usuário mais fluida e satisfatória.
+
+Para o desafio, defina um setor de atuação da empresa em questão. Sugestão do nome da empresa: TechFlow Solutions
+
 ### Visão Geral
 
-O desafio técnico proposto envolve o desenvolvimento de um sistema de gerenciamento de tarefas. A seguir, você tem uma descrição geral do desafio e depois a descrição específica para cada perfil. Nem todas as informações estarão disponíveis aqui e você não precisa considerar todos os requisitos, use sua criatividade e descreva suas suposições.
+O desafio técnico proposto envolve o desenvolvimento de um sistema de gerenciamento de tarefas. A seguir, você tem uma descrição geral do desafio e depois a descrição específica para cada perfil. Nem todas as informações estarão disponíveis aqui e você não precisa considerar todos os requisitos, use sua criatividade e descreva suas suposições. Para cada perfil há sugestões, algumas podem demorar muito tempo, outras nem tanto. Não fique preso nas sugestões, sinta-se livre para concluir o desafio em etapas, faça o básico e solicite revisão e vá aprimorando quando tiver mais tempo.
 
 **1. Introdução**
 
@@ -116,7 +122,7 @@ Considere:
 
 Como Analista de Testes, o foco é garantir a qualidade do sistema. Deve ser elaborado um plano de teste abrangente, incluindo testes de unidade, integração e sistema. Identifique casos de teste prioritários para cenários normais e situações de erro.
 
-Considere:
+Sugestões:
 - Desenvolver um plano de testes, incluindo estratégias, abordagens de teste, cronograma e recursos necessários.
 - Definir critérios de aceitação para os testes.
 - Criar casos de teste com base nos requisitos do sistema, cobrindo diferentes cenários de uso.
@@ -133,7 +139,7 @@ Considere:
 
 Como Desenvolvedor Backend, concentre-se na implementação da API RESTful utilizando uma tecnologia adequada (por exemplo, Java Spring Boot, .Net Framework ou tecnologia equivalente). Além dos requisitos gerais, priorize a eficiência e a segurança da API.
 
-Considere:
+Sugestões:
 - Projetar a arquitetura do backend, incluindo a estrutura de bancos de dados, APIs e lógica de negócios.
 - Realizar tratamento de erros e exceções.
 - Utilizar clareza e clean code no desenvolvimento da solução.
@@ -149,7 +155,7 @@ Considere:
 
 Como Desenvolvedor Frontend, a tarefa é criar um front-end adequado aos requisitos para interagir com a API. Utilize um framework moderno (por exemplo, React, Vue, Angular ou Mobile) e garanta uma interface de usuário intuitiva e atraente.
 
-Considere:
+Sugestões:
 - Realizar uso semântico do HTML, se for Web.
 - Implementar uma boa estruturação do layout e tags CSS, se for Web.
 - Desenvolver componentes reutilizáveis para promover a consistência na interface do usuário.
@@ -163,7 +169,7 @@ Considere:
 
 Realize os desafios de backend e frontend.
 
-Considere:
+Sugestões:
 - Implementar uso de WebSocket.
 
 ### Analista UX/UI
@@ -172,7 +178,7 @@ Considere:
 
 Como Analista UX/UI, concentre-se em redesenhar a interface de usuário do sistema, focando na usabilidade, acessibilidade e design responsivo. Realize pesquisas de usuário, crie wireframes e protótipos interativos. Utilize seus amigos e familiares para as pesquisas.
 
-Considere:
+Sugestões:
 - Conduzir pesquisas para compreender as necessidades, expectativas e comportamentos dos usuários.
 - Avaliar a usabilidade do SGT por meio de testes de usabilidade, análise heurística e outros métodos.
 - Criar personas representativas dos usuários finais do SGT, destacando suas características, necessidades e objetivos.
