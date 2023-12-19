@@ -155,6 +155,7 @@ Considere:
 - Desenvolver componentes reutilizáveis para promover a consistência na interface do usuário.
 - Desenvolver um layout acessível (WCAG) e responsivo.
 - Implementar testes de interface do usuário para garantir que a funcionalidade da interface seja consistente e sem erros.
+- Utilizar mocks ou [APIs públicas](https://github.com/public-apis/public-apis).
 
 ### Desenvolvedor Fullstack
 
