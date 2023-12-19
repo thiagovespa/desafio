@@ -60,7 +60,7 @@ O Sistema de Gerenciamento de Tarefas (SGT) é uma aplicação destinada a organ
 
 **3.1 Interface Intuitiva**
 - O sistema deve apresentar uma interface de usuário intuitiva e amigável.
-- Deve ser acessível por meio de navegadores web e dispositivos móveis.
+- Deve ser acessível por meio de navegadores web e/ou dispositivos móveis.
 
 **3.2 Desempenho**
 - O SGT deve oferecer tempos de resposta rápidos, mesmo quando usado por grandes equipes e com grande volume de dados.
@@ -143,15 +143,15 @@ Considere:
 - Projetar e implementar esquemas de banco de dados que atendam aos requisitos de armazenamento de dados do SGT.
 - Desenvolver testes unitários para garantir que cada componente do backend funcione conforme esperado.
 
-### Desenvolvedor Frontend
+### Desenvolvedor Frontend/Mobile
 
 #### Descrição Específica:
 
-Como Desenvolvedor Frontend, a tarefa é criar um front-end adequado aos requisitos para interagir com a API. Utilize um framework moderno (por exemplo, React, Vue, Angular) e garanta uma interface de usuário intuitiva e atraente.
+Como Desenvolvedor Frontend, a tarefa é criar um front-end adequado aos requisitos para interagir com a API. Utilize um framework moderno (por exemplo, React, Vue, Angular ou Mobile) e garanta uma interface de usuário intuitiva e atraente.
 
 Considere:
-- Realizar uso semântico do HTML.
-- Implementar uma boa estruturação do layout e tags CSS.
+- Realizar uso semântico do HTML, se for Web.
+- Implementar uma boa estruturação do layout e tags CSS, se for Web.
 - Desenvolver componentes reutilizáveis para promover a consistência na interface do usuário.
 - Desenvolver um layout acessível (WCAG) e responsivo.
 - Implementar testes de interface do usuário para garantir que a funcionalidade da interface seja consistente e sem erros.
