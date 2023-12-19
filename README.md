@@ -23,6 +23,7 @@
 O desafio técnico proposto envolve o desenvolvimento de um sistema de gerenciamento de tarefas. A seguir, você tem uma descrição geral do desafio e depois a descrição específica para cada perfil. Nem todas as informações estarão disponíveis aqui e você não precisa considerar todos os requisitos, use sua criatividade e descreva suas suposições.
 
 **1. Introdução**
+
 O Sistema de Gerenciamento de Tarefas (SGT) é uma aplicação destinada a organizar e facilitar o acompanhamento de atividades diárias para indivíduos e equipes. Este documento descreve os requisitos básicos para o desenvolvimento bem-sucedido do SGT.
 
 **2. Requisitos Funcionais**
@@ -162,7 +163,7 @@ Considere:
 
 #### Descrição Específica:
 
-Realize os desafios de backend e frontend.
+Realize os desafios de backend e frontend. Considere a possibilidade do uso de WebSocket.
 
 ### Analista UX/UI
 
