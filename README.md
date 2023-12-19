@@ -81,22 +81,19 @@ O Sistema de Gerenciamento de Tarefas (SGT) é uma aplicação destinada a organ
 
 Projeto: [Nome do Projeto]
 
---------------------------------------------------------
-| ID  | Título               | Status    | Responsável |
---------------------------------------------------------
-| 001 | Desenvolver Frontend | Em Andamento | João     |
-| 002 | Implementar API      | Pendente     | Maria    |
-| 003 | Testes de Usuário    | Concluída    | Ana      |
---------------------------------------------------------
+-----------------------------------------------------------
+| ID  | Título               | Status       | Responsável |
+-----------------------------------------------------------
+| 001 | Desenvolver Frontend | Em Andamento | João        |
+| 002 | Implementar API      | Pendente     | Maria       |
+| 003 | Testes de Usuário    | Concluída    | Ana         |
+-----------------------------------------------------------
 
 ```
 
 **4. Considerações Finais**
 
-Este documento de requisitos serve como guia para o desenvolvimento do Sistema de Gerenciamento de Tarefas. É fundamental que os desenvolvedores sigam essas especificações para garantir a entrega de um sistema eficiente e alinhado às necessidades dos usuários.
-
-
-Caso haja necessidade de informações adicionais ou se julgar necessário incluir algo, sinta-se à vontade para fazer suposições e documentá-las.
+Este documento de requisitos serve como guia para o desenvolvimento do Sistema de Gerenciamento de Tarefas. Caso haja necessidade de informações adicionais ou se julgar necessário incluir algo, sinta-se à vontade para fazer suposições e documentá-las.
 
 ### Desafios por Perfil
 
@@ -150,20 +147,23 @@ Considere:
 
 #### Descrição Específica:
 
-Como Desenvolvedor Frontend, a tarefa é criar um front-end interativo para interagir com a API. Utilize um framework moderno (por exemplo, React, Vue, Angular) e garanta uma interface de usuário intuitiva e atraente.
+Como Desenvolvedor Frontend, a tarefa é criar um front-end adequado aos requisitos para interagir com a API. Utilize um framework moderno (por exemplo, React, Vue, Angular) e garanta uma interface de usuário intuitiva e atraente.
 
 Considere:
-- Realizar uso semântico do HTML
-- Implementar uma boa estruturação do layout e tags CSS
+- Realizar uso semântico do HTML.
+- Implementar uma boa estruturação do layout e tags CSS.
 - Desenvolver componentes reutilizáveis para promover a consistência na interface do usuário.
-- Desenvolver um layout acessível (WCAG) e responsivo
+- Desenvolver um layout acessível (WCAG) e responsivo.
 - Implementar testes de interface do usuário para garantir que a funcionalidade da interface seja consistente e sem erros.
 
 ### Desenvolvedor Fullstack
 
 #### Descrição Específica:
 
-Realize os desafios de backend e frontend. Considere a possibilidade do uso de WebSocket.
+Realize os desafios de backend e frontend.
+
+Considere:
+- Implementar uso de WebSocket.
 
 ### Analista UX/UI
 
