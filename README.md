@@ -109,7 +109,7 @@ Este documento de requisitos serve como guia para o desenvolvimento do Sistema d
 
 Como Analista de Requisitos, o papel é criar uma especificação detalhada para o sistema de gerenciamento de tarefas. Isso deve incluir requisitos funcionais e não funcionais, bem como cenários de uso. Leve em conta diferentes atores, como usuários e administradores, e defina casos de uso para as principais funcionalidades.
 
-Considere:
+Sugestões:
 - Elaborar o Documento de Requisitos do Sistema (DRS), incluindo requisitos funcionais, requisitos não funcionais, casos de uso e diagramas de fluxo.
 - Descrever cenários de uso e casos de teste derivados dos requisitos.
 - Criar diagramas de fluxo de processos para representar visualmente a sequência de atividades e interações do sistema.
